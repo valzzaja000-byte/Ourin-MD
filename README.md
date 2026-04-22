@@ -237,8 +237,8 @@ Buka file `config.js` menggunakan text editor apapun (Notepad, VS Code, dll).
 Cari bagian ini:
 ```javascript
 owner: {
-    name: 'Owner',
-    number: ['628xxxxxxxxxx']
+    name: 'valz',
+    number: ['6285373273509']
 }
 ```
 
