@@ -237,12 +237,12 @@ Buka file `config.js` menggunakan text editor apapun (Notepad, VS Code, dll).
 Cari bagian ini:
 ```javascript
 owner: {
-    name: 'Owner',
-    number: ['628xxxxxxxxxx']
+    name: 'valz',
+    number: ['6285373273509']
 }
 ```
 
-Ganti `628xxxxxxxxxx` dengan nomor WhatsApp kamu. Format nomor:
+Ganti `6285373273509` dengan nomor WhatsApp kamu. Format nomor:
 - Diawali dengan kode negara (62 untuk Indonesia)
 - Tidak pakai tanda + atau 0 di depan
 - Contoh: `6281234567890`
